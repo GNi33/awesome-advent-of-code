@@ -654,7 +654,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Racket.*
 
-* [6cdh/aoc](https://github.com/6cdh/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--01-brightgreen)
+* [6cdh/aoc](https://github.com/6cdh/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--02-brightgreen)
 * [Bogdanp/aoc2023](https://github.com/Bogdanp/aoc2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--09-brightgreen)
 * [lojic/LearningRacket](https://github.com/lojic/LearningRacket) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--28-brightgreen)
 * [rmculpepper/fun](https://github.com/rmculpepper/fun) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--18-brightgreen)
@@ -744,7 +744,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in Scala.*
 
 * [FlorianCassayre/AdventOfCode-2023](https://github.com/FlorianCassayre/AdventOfCode-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--01--01-brightgreen)
-* [OscarOdic/advent-of-code](https://github.com/OscarOdic/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--11-brightgreen)
+* [OscarOdic/advent-of-code](https://github.com/OscarOdic/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--02-brightgreen)
 * [fdlk/advent-2023](https://github.com/fdlk/advent-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--25-brightgreen)
 * [jurisk/advent-of-code](https://github.com/jurisk/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--02-brightgreen)
 * [kotleta2007/advent-of-code-2023](https://github.com/kotleta2007/advent-of-code-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--02--22-brightgreen)
