@@ -493,7 +493,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 *Solutions to AoC in jq.*
 
 * [christianberg/advent](https://github.com/christianberg/advent) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--13-brightgreen)
-* [odnoletkov/advent-of-code-jq](https://github.com/odnoletkov/advent-of-code-jq) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--07-brightgreen)
+* [odnoletkov/advent-of-code-jq](https://github.com/odnoletkov/advent-of-code-jq) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--08-brightgreen)
 
 #### Julia
 
@@ -501,7 +501,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 * [DaniGlez/aoc](https://github.com/DaniGlez/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--07-brightgreen)
 * [Teo-ShaoWei/advent-of-code-julia](https://github.com/Teo-ShaoWei/advent-of-code-julia) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--06-brightgreen)
-* [Titas22/AdventOfCode.jl](https://github.com/Titas22/AdventOfCode.jl) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--07-brightgreen)
+* [Titas22/AdventOfCode.jl](https://github.com/Titas22/AdventOfCode.jl) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--08-brightgreen)
 * [axsk/advent-of-code](https://github.com/axsk/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--29-brightgreen)
 * [goggle/AdventOfCode2023.jl](https://github.com/goggle/AdventOfCode2023.jl) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--01--18-brightgreen)
 * [simonschnake/adventofcode23](https://github.com/simonschnake/adventofcode23) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--25-brightgreen)
