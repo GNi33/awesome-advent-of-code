@@ -463,7 +463,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 * [ChrisTopping/advent-of-code](https://github.com/ChrisTopping/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--09-brightgreen)
 * [NikitaNikolaenko/aoc-2023](https://github.com/NikitaNikolaenko/aoc-2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--10-brightgreen)
 * [MrTimeey/advent-of-code-23](https://github.com/MrTimeey/advent-of-code-23) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--21-brightgreen)
-* [SimonBaars/AdventOfCode-Java](https://github.com/SimonBaars/AdventOfCode-Java) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--19-brightgreen)
+* [SimonBaars/AdventOfCode-Java](https://github.com/SimonBaars/AdventOfCode-Java) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--20-brightgreen)
 * [Viinyard/adventofcode_2023](https://github.com/Viinyard/adventofcode_2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--01-brightgreen)
 * [bqcuong/AdventOfCode](https://github.com/bqcuong/AdventOfCode) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--19-brightgreen)
 * [brittleru/advent-of-code](https://github.com/brittleru/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--08-brightgreen)
@@ -707,7 +707,7 @@ Read [CONTRIBUTING.md](/.github/CONTRIBUTING.md) to learn how to add your own re
 
 *Solutions to AoC in Rust.*
 
-* [AndrejOrsula/aoc](https://github.com/AndrejOrsula/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--19-brightgreen)
+* [AndrejOrsula/aoc](https://github.com/AndrejOrsula/aoc) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--20-brightgreen)
 * [connorslade/advent-of-code](https://github.com/connorslade/advent-of-code) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2024--12--20-brightgreen)
 * [Bot-Kerem/adventofcode2023](https://github.com/Bot-Kerem/adventofcode2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--04-brightgreen)
 * [Martinif/adventofcode2023](https://github.com/Martinif/adventofcode2023) ![Last Commit on GitHub](https://img.shields.io/badge/last%20commit-2023--12--04-brightgreen)
